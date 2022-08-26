@@ -1,0 +1,2 @@
+# Passport-Size-Photo-Resizer-using-Java
+***Problem Solution*** You don't need to resize your picture to passport size Every time . This Application does for you. Just Upload any Picture this will resize it to Passport picture size Width: 354pixel, Height: 472pixel.  Alhamdullilah completed my Semester Project on Image Processing using java.  Tech stack used: - Client side: JFrame.  - Server side: Ms Access database.
